@@ -55,7 +55,7 @@ This site is hosted using GitHub pages, deployed directly from the master branch
 
 ##### Content
 
-The content for all the pages are take from [here](http://mopboston.com/).
+The content for all the pages are take from [here](http://mopStockton.com/).
 
 ##### Media
 
@@ -63,5 +63,5 @@ All images have been obtained through different searches through [Google](www.go
 
 ### Acknowledgements
 
-+ Inspiread from the design of this [site](http://mopboston.com/).
++ Inspiread from the design of this [site](http://mopStockton.com/).
 + Studied many sites from [Google](www.google.com).# teresa
