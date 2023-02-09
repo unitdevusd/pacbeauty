@@ -1,5 +1,5 @@
 .navbar {
-    background: linear-gradient(to right, white 15%, #e6b3e6);
+    background: linear-gradient(to right, white 15%, #DB5435);
     position: fixed;
     z-index: 2;
     width: 100%;
@@ -22,7 +22,7 @@
 .navbar-brand {
     font-family: 'Kaushan Script', cursive;
     font-size: 45px;
-    color: #990099;
+    color: #0F4C81;
     padding-left: 40px;
 }
 
@@ -42,7 +42,7 @@
 }
 
 body {
-    background: #f9ecf9;
+    background: #FAF9F6;
 }
 
 /*.carousel-item img {*/
@@ -92,9 +92,10 @@ body {
 .cust_review {
     padding-top: 30px;
     /*//padding-bottom: 30px;*/
-    background-color: #f2d9f2;
+    background-color: #DB5435;
     padding-left: 10px;
     padding-right: 10px;
+    color:#fff;
 }
 
 .service-img-row {
@@ -105,7 +106,7 @@ body {
 .service-headding-row {
     font-family: 'Courgette', cursive;
     text-align: center;
-    color: purple;
+    color: #0F4C81;
 }
 
 .service-table tr td {
@@ -152,7 +153,7 @@ body {
 .product-headding-row {
     font-family: 'Courgette', cursive;
     /*text-align: center;*/
-    color: purple;
+    color: #0F4C81;
 }
 
 .product-para-row {
@@ -175,7 +176,7 @@ body {
 .contact-headding-row {
 
     font-family: 'Courgette', cursive;
-    color: purple;
+    color: #0F4C81;
     padding-top: 30px;
 }
 
@@ -231,12 +232,12 @@ iframe {
 
 footer {
     margin-top: 20px;
-    background: linear-gradient(to left, #df9fdf, white 32%, #e6b3e6);
+    background: linear-gradient(to left, #DB5435, white 32%, #DB5435);
 }
 
 
 .footer_social {
-    color: purple;
+    color: #DB5435;
     font-size: 30px;
     padding: 5px;
     /*padding-top:10px;*/
@@ -250,7 +251,7 @@ footer {
 #footer-brand {
     font-family: 'Kaushan Script', cursive;
     font-size: 35px;
-    color: #990099;
+    color: #0F4C81;
 }
 
 .footer-headding {
